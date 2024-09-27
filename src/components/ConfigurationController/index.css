@@ -1,0 +1,32 @@
+.configuration-controller-bg-container {
+  display: flex;
+  align-items: center;
+  background-color: #475569;
+  height: 20vh;
+  width: 100%;
+  font-family: 'Roboto';
+}
+.configuration-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  margin-left: 50px;
+  height: 100%;
+}
+.layout-heading {
+  color: #ffffff;
+  font-weight: bold;
+}
+.check-box {
+  color: #ffffff;
+  font-size: 12px;
+  display: flex;
+  align-items: center;
+}
+
+.input {
+  margin-right: 8px;
+}
+.rightNavbar-label {
+  margin-bottom: 10px;
+}
